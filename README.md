@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+![capa](https://github.com/lucasgandac/lucasgandac/blob/main/readme_image.png)
+
 <!--
 **lucasgandac/lucasgandac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![capa](https://github.com/lucasgandac/lucasgandac/blob/main/readme_image.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
