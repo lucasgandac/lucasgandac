@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![capa](https://github.com/lucasgandac/lucasgandac/blob/main/readme_image.png)
 
 <!--
