@@ -1,4 +1,4 @@
-![capa](https://github.com/lucasgandac/lucasgandac/blob/main/readme_image.png)
+
 
 <!--
 **lucasgandac/lucasgandac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
